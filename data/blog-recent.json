@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "baccarat-stop-loss-strategy-analysis",
+      "title": "百家樂停損策略設定原則：風險控管與資金管理的實證研究分析",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "玩百家樂，我最怕贏咗唔識走，輸咗又追數！所以停損策略真係好重要，幫我守住血汗錢，避免一鋪清袋。",
+      "imageUrl": "https://pixabay.com/get/g168cfba03f2ba986781aedc6bf0dd7a7242acd530a06c1cfe41e9bbb56b19140d8f1d7d5f697d5a47e703e2682a7438c3ebc1d56b0577f6a82b13e6155583d69_640.jpg"
+    },
+    {
       "slug": "baccarat-house-edge-math-analysis",
       "title": "百家樂莊家優勢的數學根源：規則結構與概率分析研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "玩百家樂咁耐，我一直都想知，啲人講到神乎其技嘅路單，到底係咪真係可以預測到結果？今日就同大家深入探討吓！",
       "imageUrl": "https://pixabay.com/get/g542b1b61a3f91d51111c49a34a473474ae132f977618c0429297438ed73a26ff66ba3c3eebd4188617a414b32100bb86_640.jpg"
-    },
-    {
-      "slug": "baccarat-probability-edge-analysis",
-      "title": "百家樂莊閒機率數學解析：勝率與莊家優勢研究",
-      "category": "undefined",
-      "date": "2026-05-29",
-      "excerpt": "講到百家樂，好多人淨係識得盲跟路，但你知唔知背後嘅數學原理係點？我哋一齊揭開佢嘅神秘面紗！",
-      "imageUrl": "https://pixabay.com/get/ge103e864735febc16c6e8c3da4459b8e9adb072e2512309f708dc33ea8accae86cece46aea9f46284ef31c8051ae9eb33d8c80c29424a3facd3809aeb30f1f4a_640.jpg"
     }
   ]
 }
