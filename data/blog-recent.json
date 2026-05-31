@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-31",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/gfe98e64c12f2548cdf76b9e818e2e71bf4b2790e4205a13e80b6d206d5f74229a29e9b26ea5c794a0be465ecc27a50ec_640.jpg"
+    },
+    {
       "slug": "baccarat-stop-loss-strategy-analysis",
       "title": "百家樂停損策略設定原則：風險控管與資金管理的實證研究分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "每次坐喺百家樂枱前，我哋都想贏，但你有冇諗過點解賭場總係贏家？今日我哋就嚟拆解呢個數學之謎！",
       "imageUrl": "https://pixabay.com/get/g840dc016e554840f469b73689fa89ac19342b61c71652479b1cd9e706e6b5499261c4f20e50879b2338d3dc48b89e5c6a16712f9b01aa870d8979d63b3f8f0b4_640.jpg"
-    },
-    {
-      "slug": "baccarat-road-reading-prediction-analysis",
-      "title": "百家樂路單之預測效能：基於統計學的系統性分析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "玩百家樂咁耐，我一直都想知，啲人講到神乎其技嘅路單，到底係咪真係可以預測到結果？今日就同大家深入探討吓！",
-      "imageUrl": "https://pixabay.com/get/g542b1b61a3f91d51111c49a34a473474ae132f977618c0429297438ed73a26ff66ba3c3eebd4188617a414b32100bb86_640.jpg"
     }
   ]
 }
