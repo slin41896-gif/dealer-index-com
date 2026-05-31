@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "european-vs-american-roulette-differences",
+      "title": "歐式輪盤與美式輪盤的核心差異：規則、賠率與勝算深度解析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "講起輪盤，好多人都以為差唔多，但其實歐式同美式輪盤入面，藏住嘅數學同勝算可以差好遠！我作為一個技術分析師，真係見過唔少玩家因為唔識揀而輸多咗。",
+      "imageUrl": "https://pixabay.com/get/g2a4f96736ebebaa0d2ce5925a179af2e820113e476bae96bcb7c56eea11e0d567a437819e3e6eddb30c2f39d4fbdd1ef602b2b0d85a28a2d6402d8d753e6f557_640.jpg"
+    },
+    {
       "slug": "article",
       "title": "article",
       "category": "General",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "玩百家樂，我最怕贏咗唔識走，輸咗又追數！所以停損策略真係好重要，幫我守住血汗錢，避免一鋪清袋。",
       "imageUrl": "https://pixabay.com/get/g168cfba03f2ba986781aedc6bf0dd7a7242acd530a06c1cfe41e9bbb56b19140d8f1d7d5f697d5a47e703e2682a7438c3ebc1d56b0577f6a82b13e6155583d69_640.jpg"
-    },
-    {
-      "slug": "baccarat-house-edge-math-analysis",
-      "title": "百家樂莊家優勢的數學根源：規則結構與概率分析研究",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "每次坐喺百家樂枱前，我哋都想贏，但你有冇諗過點解賭場總係贏家？今日我哋就嚟拆解呢個數學之謎！",
-      "imageUrl": "https://pixabay.com/get/g840dc016e554840f469b73689fa89ac19342b61c71652479b1cd9e706e6b5499261c4f20e50879b2338d3dc48b89e5c6a16712f9b01aa870d8979d63b3f8f0b4_640.jpg"
     }
   ]
 }
